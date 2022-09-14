@@ -1,7 +1,7 @@
 using System;
 using Ejercisio3;
 using System.Collections.Generic;
-namespace Ejercisio3
+namespace entregable2p2
 {
     public class Pastel{
     
@@ -28,8 +28,6 @@ namespace Ejercisio3
             foreach (Ingredientes ingrediente in this.Ingredientes)
             {
                 total += ingrediente.precio;
-
-            
             }
 
             return total;
