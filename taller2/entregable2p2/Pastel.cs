@@ -1,5 +1,5 @@
 using System;
-using Ejercisio3;
+using entregable2p2;
 using System.Collections.Generic;
 namespace entregable2p2
 {
